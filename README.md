@@ -21,7 +21,7 @@ Non Verified Users: 20
 
 # A.3
 I've used UMass measure for LDA topic modelling. 
-UMass have negative coherence values, so UMass coherence approaches to 0 the topic coherence gets better.
+UMass have negative coherence values, so as UMass coherence approaches to 0 the topic coherence gets better.
 As the classes are already only about covid or sushant so there would not be many topics.
 
 ## Class A (#Covid)
@@ -130,16 +130,15 @@ All the top frequent words are classified as positive because of the retweets. A
 
 
 # A.4
-1. No of tweets (combining retweets) for covids are more than sushant singh, showing that covid is more trending topic (can be deduced from the fact that the entire world is tweeting about covid and sushant is trending only in india). Covid tweets can more about the latest discoveries or growoth rate in covid cases in a geographical region.
+1. No of tweets (combining retweets) for covids are more than sushant singh, showing that covid is more trending topic (can be deduced from the fact that the entire world is tweeting about covid and sushant is trending only in india). Covid tweets are more about the latest discoveries or growth rate in covid cases in a geographical region since it's an ongoing event.
  
 2. Fraction of users and tweets are more for covid than sushant indicating that number of users tweeting about covid are more than people tweeting about sushant. Users taking part in covid topic is more i.e. there are more number of distinct users.
 
 3. Fraction of tweets which are negative are more for sushant than covid. (result for top 50 frequent words are more negative)
 
-4. Fraction of verified and non-verified accounts is higher for covid than sushant indicating more influential people are tweeting about covid than sushant. Sushant case is not a comparable one but probably it isn't as infuential at a global level as corona meaning that the virus is affecting that class also.
+4. Fraction of verified and non-verified accounts is higher for covid than sushant indicating more influential people are tweeting about covid than sushant. Sushant case is not a comparable one but probably it isn't as infuential at a global level as Corona meaning that the virus is affecting that class also.
 
-5. From the retweets graph, Covid tweets have more retweets than sushant retweets (degree centrality).
-New discoveries in covid is making people tweet and retweet again since it's an ongoing event.
+5. From the retweets graph, Covid tweets have more retweets than sushant retweets (degree centrality). New discoveries in covid is making people tweet and retweet again and again.
 
 
 
