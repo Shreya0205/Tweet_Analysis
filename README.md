@@ -2,8 +2,11 @@
 
 ## Class A(#Covid)
 Tweets: 97251
+
 Users: 76324
+
 Verified Users: 1392
+
 Non Verified Users: 74932
 
 ## Class B (#SushantSinghRajput)
