@@ -9,17 +9,26 @@ Verified Users: 1392
 
 Non Verified Users: 74932
 
+
 ## Class B (#SushantSinghRajput)
 Tweets: 43149
+
 Users: 19159
+
 Verified Users: 119
+
 Non Verified Users: 19040
+
 
 ## Class C (Both)
 Tweets: 38
+
 Users: 20
+
 Verified Users: 0
+
 Non Verified Users: 20
+
 
 
 # A.3
