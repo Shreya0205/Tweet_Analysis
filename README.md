@@ -49,6 +49,7 @@ Keywords in the topic:
 8. make
 9. coronavirus
 10. death
+
 Keywords shows that the tweets are mostly about new tests, cases, deaths due to coronavirus and also about wearing masks.
  
 ## Class B (#SushantSinghRajput)
